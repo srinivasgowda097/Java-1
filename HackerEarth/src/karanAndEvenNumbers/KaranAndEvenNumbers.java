@@ -9,7 +9,7 @@ public class KaranAndEvenNumbers {
 //comments	public static void main(String[] args) {
 		BufferedReader stdin = new BufferedReader(new InputStreamReader(
 				System.in));
-		String line;
+//comments		String line;
 		int count = 0;
 		int t = 0;
 		String[] A = null;
