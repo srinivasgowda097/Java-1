@@ -5,12 +5,11 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 public class KaranAndEvenNumbers {
-//comments
 public static void main(String[] args) {
 		BufferedReader stdin = new BufferedReader(new InputStreamReader(
 				System.in));
 		String line;
-//comments		int count = 0;
+		int count = 0;
 		int t = 0;
 		String[] A = null;
 		try {
