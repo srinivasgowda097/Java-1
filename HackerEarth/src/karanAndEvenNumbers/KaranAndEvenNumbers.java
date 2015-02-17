@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 
 public class KaranAndEvenNumbers {
 
-	public static void main(String[] args) {
+//comments	public static void main(String[] args) {
 		BufferedReader stdin = new BufferedReader(new InputStreamReader(
 				System.in));
 		String line;
